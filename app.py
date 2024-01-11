@@ -85,8 +85,19 @@ if news_type == 'Most shared articles':
 elif news_type == 'Recently Published':
     complete_recent_published()
     
-elif news_type == 'Top stories':
-    complete_top_stories()
+# elif news_type == 'Top stories':
+#     complete_top_stories()
     
-elif news_type == 'Article of the day':
-    article_day_complete_published()
+# elif news_type == 'Article of the day':
+#     article_day_complete_published()
+
+
+# srgfjerngf
+
+# dir --> lists all folders
+# cd into a folder
+# cd into nytimesapi
+# enter these commands:
+# git add .
+# git commit -m"Commit message"
+# git push
